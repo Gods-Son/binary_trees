@@ -56,4 +56,4 @@ Project done during **Full Stack Software Engineering studies** at **ALX School*
 
 
 ## Author
-* Abel Berhanu    - [Abel](https://github.com/abela12)
+* Emmanuel Ijioma    - [EJ](https://github.com/Gods-Son)
